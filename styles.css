@@ -11,6 +11,12 @@ header {
 	text-align: center;
 }
 
+.storytext {
+	background-color: #BFB7C1;
+	padding: 10px;
+	margin: 10px;
+}
+
 h4 {
 	margin-bottom: 30px;
 }
@@ -39,6 +45,14 @@ img {
 	margin-top: 30px;
 }
 
+.option {
+	color: #BCE784;
+	margin-top: 50px;
+	text-align: center;
+	background-color: #348AA7;
+	border-radius: 25px;
+}
+
 footer{
 	background-color: #525174;
 	position: fixed;
@@ -49,7 +63,7 @@ footer{
 }
 
 footer p {
-	text-align: left;
+	text-align: center;
 	padding-top: 15px;
 }
 
