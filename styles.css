@@ -1,0 +1,55 @@
+h1 {
+	margin-top: 30px;
+	margin-bottom: 30px;
+	background-color: #348AA7;
+	text-align: center;
+	border-radius: 25px;
+}
+
+header {
+	color: #BCE784;
+}
+
+h4 {
+}
+
+body {
+	background-color: #513B56;
+	text-align: center;
+}
+
+#zombies{
+	background-color: #5DD39E;
+	width: auto;
+	border-radius: 25px;
+}
+
+#spacesuit {
+	background-image: url("https://blog.spoongraphics.co.uk/wp-content/uploads/2013/vector-planets/29.jpg");
+	background-size: 100%;
+	border-radius: 25px;
+
+}
+
+img {
+	height: 300px;
+	margin-top: 30px;
+}
+
+footer{
+	background-color: #525174;
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	height: 50px;
+}
+
+#made {
+	text-align: start;
+	padding-top: 10px;
+}
+
+.nopadding {
+	padding: 0;
+}
