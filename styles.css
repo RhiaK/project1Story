@@ -8,26 +8,29 @@ h1 {
 
 header {
 	color: #BCE784;
+	text-align: center;
 }
 
 h4 {
+	margin-bottom: 30px;
 }
 
 body {
 	background-color: #513B56;
-	text-align: center;
 }
 
 #zombies{
 	background-color: #5DD39E;
 	width: auto;
 	border-radius: 25px;
+	margin: 0;
 }
 
 #spacesuit {
 	background-image: url("https://blog.spoongraphics.co.uk/wp-content/uploads/2013/vector-planets/29.jpg");
 	background-size: 100%;
 	border-radius: 25px;
+	margin: 0;
 
 }
 
