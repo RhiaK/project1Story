@@ -1,98 +1,98 @@
 
 $(document).ready(function(){
 	$("#zombies").on("click", function() {
-	window.open("zombie.html");
+	window.location.href="zombie.html";
 	return false;
 	});
 });
 
 $(document).ready(function(){
 	$("#spacesuit").on("click", function() {
-	window.open("space.html");
+	window.location.href="space.html";
 	return false;
 	});
 });
 
 $(document).ready(function(){
 	$("#option1").on("click", function() {
-	window.open("zoption1.html");
+	window.location.href="zoption1.html";
 	return false;
 	});
 });
 
 $(document).ready(function(){
 	$("#option2").on("click", function() {
-	window.open("zoption2.html");
+	window.location.href="zoption2.html";
 	return false;
 	});
 });
 
 $(document).ready(function(){
 	$("#option3").on("click", function() {
-	window.open("zoption3.html");
+	window.location.href="zoption3.html";
 	return false;
 	});
 });
 
 $(document).ready(function(){
-	$("#option1.1").on("click", function() {
-	window.open("zoption1.1.html");
+	$("#option1-1").on("click", function() {
+	window.location.href="zoption1-1.html";
 	return false;
 	});
 });
 
 $(document).ready(function(){
-	$("#option1.2").on("click", function() {
-	window.open("zoption1.2.html");
+	$("#option1-2").on("click", function() {
+	window.location.href="zoption1-2.html";
 	return false;
 	});
 });
 
 $(document).ready(function(){
-	$("#option1.3").on("click", function() {
-	window.open("zoption1.3.html");
+	$("#option1-3").on("click", function() {
+	window.location.href="zoption1-3.html";
 	return false;
 	});
 });
 
 $(document).ready(function(){
-	$("#option2.1").on("click", function() {
-	window.open("zoption2.1.html");
+	$("#option2-1").on("click", function() {
+	window.location.href="zoption2-1.html";
 	return false;
 	});
 });
 
 $(document).ready(function(){
-	$("#option2.2").on("click", function() {
-	window.open("zoption2.2.html");
+	$("#option2-2").on("click", function() {
+	window.location.href="zoption2-2.html";
 	return false;
 	});
 });
 
 $(document).ready(function(){
-	$("#option2.3").on("click", function() {
-	window.open("zoption2.3.html");
+	$("#option2-3").on("click", function() {
+	window.location.href="zoption2-3.html";
 	return false;
 	});
 });
 
 $(document).ready(function(){
-	$("#option3.1").on("click", function() {
-	window.open("zoption3.1.html");
+	$("#option3-1").on("click", function() {
+	window.location.href="zoption3-1.html";
 	return false;
 	});
 });
 
 $(document).ready(function(){
-	$("#option3.2").on("click", function() {
-	window.open("zoption3.2.html");
+	$("#option3-2").on("click", function() {
+	window.location.href="zoption3-2.html";
 	return false;
 	});
 });
 
 $(document).ready(function(){
-	$("#option3.3").on("click", function() {
-	window.open("zoption3.3.html");
+	$("#option3-3").on("click", function() {
+	window.location.href="zoption3-3.html";
 	return false;
 	});
 });
