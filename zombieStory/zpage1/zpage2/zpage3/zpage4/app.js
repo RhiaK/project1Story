@@ -105,8 +105,8 @@ $(document).ready(function(){
 });
 
 $(document).ready(function(){
-	$("#ption2-1-2-2").on("click", function() {
-	window.location.href="zpage5/zption2-1-2-2.html";
+	$("#option2-1-2-2").on("click", function() {
+	window.location.href="zpage5/zoption2-1-2-2.html";
 	return false;
 	});
 });
