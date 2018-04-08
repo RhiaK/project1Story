@@ -1,87 +1,85 @@
-//page2
+//page5 to 6
+//eat dented can food
 $(document).ready(function(){
-	$("#option1").on("click", function() {
-	window.location.href="zpage2/zoption1.html";
+	$("#option1-2-1-1-1").on("click", function() {
+	window.location.href="zpage6/zoption1-2-1-1-1.html";
 	return false;
 	});
 });
-
+//don't eat dented can food
 $(document).ready(function(){
-	$("#option2").on("click", function() {
-	window.location.href="zpage2/zoption2.html";
+	$("#option1-2-1-1-2").on("click", function() {
+	window.location.href="zpage6/zoption1-2-1-1-2.html";
 	return false;
 	});
 });
-
+//move north quickly
 $(document).ready(function(){
-	$("#option3").on("click", function() {
-	window.location.href="zpage2/zoption3.html";
+	$("#option1-2-1-2-1").on("click", function() {
+	window.location.href="zpage6/zoption1-2-1-2-1.html";
 	return false;
 	});
 });
-
-//page3
+//move north slowly
 $(document).ready(function(){
-	$("#option1-1").on("click", function() {
-	window.location.href="zombieStory/zpage3/zoption1-1.html";
+	$("#option1-2-1-2-2").on("click", function() {
+	window.location.href="zpage6/zoption1-2-1-2-2.html";
 	return false;
 	});
 });
-
+//leave house now
 $(document).ready(function(){
-	$("#option1-2").on("click", function() {
-	window.location.href="zombieStory/zpage3/zoption1-2.html";
+	$("#option1-2-2-2-1").on("click", function() {
+	window.location.href="zpage6/zoption1-2-2-2-1.html";
 	return false;
 	});
 });
-
+//hang out relax
 $(document).ready(function(){
-	$("#option1-3").on("click", function() {
-	window.location.href="zombieStory/zpage3/zoption1-3.html";
+	$("#option1-2-2-2-2").on("click", function() {
+	window.location.href="zpage6/zoption1-2-2-2-2.html";
 	return false;
 	});
 });
-
+//open door
 $(document).ready(function(){
-	$("#option2-1").on("click", function() {
-	window.location.href="zombieStory/zpage3/zoption2-1.html";
+	$("#option1-2-1-3-1").on("click", function() {
+	window.location.href="zpage6/zoption1-2-1-3-1.html";
 	return false;
 	});
 });
-
+//wait in woods
 $(document).ready(function(){
-	$("#option2-2").on("click", function() {
-	window.location.href="zombieStory/zpage3/zoption2-2.html";
+	$("#option1-2-1-3-2").on("click", function() {
+	window.location.href="zpage6/zoption1-2-1-3-2.html";
 	return false;
 	});
 });
-
+//leave the suv and head north
 $(document).ready(function(){
-	$("#option2-3").on("click", function() {
-	window.location.href="zombieStory/zpage3/zoption2-3.html";
+	$("#option2-1-1-1-1").on("click", function() {
+	window.location.href="zpage6/zoption2-1-1-1-1.html";
 	return false;
 	});
 });
-
+//hang out in the suv relax
 $(document).ready(function(){
-	$("#option3-1").on("click", function() {
-	window.location.href="zombieStory/zpage3/zoption3-1.html";
+	$("#option2-1-1-1-2").on("click", function() {
+	window.location.href="zpage6/zoption2-1-1-1-2.html";
 	return false;
 	});
 });
-
+//scratched heading north
 $(document).ready(function(){
-	$("#option3-2").on("click", function() {
-	window.location.href="zombieStory/zpage3/zoption3-2.html";
+	$("#option2-1-1-2-1").on("click", function() {
+	window.location.href="zpage6/zoption2-1-1-2-1.html";
 	return false;
 	});
 });
-
+//scratched lay low
 $(document).ready(function(){
-	$("#option3-3").on("click", function() {
-	window.location.href="zombieStory/zpage3/zoption3-3.html";
+	$("#option2-1-1-2-2").on("click", function() {
+	window.location.href="zpage6/zoption2-1-1-2-2.html";
 	return false;
 	});
 });
-
-//page4
