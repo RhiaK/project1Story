@@ -1,3 +1,12 @@
+ .stretch{
+	background-size: contain, cover;	
+	padding: 0;
+	margin: 0;
+	left: 0;
+	right: 0;
+	background-repeat: repeat;
+ }
+
 h1 {
 	margin-top: 30px;
 	margin-bottom: 30px;
@@ -71,3 +80,4 @@ footer p {
 .nopadding {
 	padding: 0;
 }
+
