@@ -25,6 +25,17 @@ header {
 	text-align: center;
 }
 
+.dictionary {
+	position: absolute;
+	top: 0;
+	right: 0%;
+	height: 50px;
+	width: auto;
+	padding: 0;
+	margin-right: 20px;
+	margin-top: 20px;
+}
+
 .storytext {
 	font-family: 'Bitter', serif;
 	background-color: #BFB7C1;
