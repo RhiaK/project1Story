@@ -9,6 +9,10 @@ body {
 	width: 100%;
 }
 
+header p {
+	color: #BFB7C1;
+}
+
 h1 {
 	font-family: 'Bitter', serif;
 	margin-top: 30px;
