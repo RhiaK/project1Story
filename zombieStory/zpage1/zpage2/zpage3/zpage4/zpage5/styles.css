@@ -52,6 +52,9 @@ img {
 	text-align: center;
 	background-color: #348AA7;
 	border-radius: 25px;
+	font-size: 25px;
+	line-height: 1;
+	padding: 10px;
 }
 
 #hairzombie {

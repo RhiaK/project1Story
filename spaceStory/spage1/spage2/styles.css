@@ -1,4 +1,17 @@
+body {
+	font-family: 'Bitter', serif;
+	background-color: #513B56; 
+	background-image: url('http://myexplorationadventure.surge.sh/spaceStory/5a28b33e6db3e9.9753794715126167664494.png');
+	background-size: cover;
+	margin-bottom: 50px;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	width: 100%;
+}
+
 h1 {
+	font-family: 'Bitter', serif;
 	margin-top: 30px;
 	margin-bottom: 30px;
 	background-color: #348AA7;
@@ -7,23 +20,21 @@ h1 {
 }
 
 header {
+	font-family: 'Bitter', serif;
 	color: #BCE784;
 	text-align: center;
 }
 
 .storytext {
+	font-family: 'Bitter', serif;
 	background-color: #BFB7C1;
 	padding: 10px;
 	margin: 10px;
 }
 
 h4 {
+	font-family: 'Bitter', serif;
 	margin-bottom: 30px;
-}
-
-body {
-	background-color: #513B56;
-	margin-bottom: 50px;
 }
 
 #zombies{
@@ -46,15 +57,25 @@ img {
 	margin-top: 30px;
 }
 
+#zombiehead {
+	text-align: center;
+}
+
 .option {
+	font-family: 'Bitter', serif;
 	color: #BCE784;
 	margin-top: 50px;
+	margin-bottom: 50px;
 	text-align: center;
 	background-color: #348AA7;
 	border-radius: 25px;
+	font-size: 25px;
+	line-height: 1;
+	padding: 20px;
 }
 
 footer{
+	font-family: 'Bitter', serif;
 	background-color: #525174;
 	position: fixed;
 	left: 0;
@@ -64,6 +85,7 @@ footer{
 }
 
 footer p {
+	font-family: 'Bitter', serif;
 	text-align: center;
 	padding-top: 15px;
 }
@@ -71,3 +93,8 @@ footer p {
 .nopadding {
 	padding: 0;
 }
+ .pic {
+ 	padding: 0;
+ 	margin: 0;
+ 	object-fit: contain;
+ }
