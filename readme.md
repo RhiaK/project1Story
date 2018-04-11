@@ -8,6 +8,7 @@ The player reads the story on the page and then selects from two or three option
 
 To win the game, the character must survive. 
 
+If the player comse across a word they are unfamiliar with, they can use the link in the upper right corner of their screen to access Dictionary.com
 
 This game was created using HTML, CSS (Bootstrap), and JavaScript.
 
