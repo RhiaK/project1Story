@@ -3,6 +3,7 @@ body {
 	background-color: #513B56; 
 	background-size: cover;
 	margin-bottom: 50px;
+	margin-left: 15px;
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: cover;
@@ -45,6 +46,11 @@ header {
 h4 {
 	font-family: 'Bitter', serif;
 	margin-bottom: 30px;
+}
+
+.margin{
+	margin-left: 30px;
+	right: 20em;
 }
 
 #zombies{
