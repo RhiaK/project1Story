@@ -1,6 +1,7 @@
 body {
 	font-family: 'Bitter', serif;
 	background-color: #513B56; 
+	background-image: url('http://myexplorationadventure.surge.sh/zombieStory/img/zbackground.jpg');
 	background-size: cover;
 	margin-bottom: 50px;
 	margin-left: 15px;
@@ -8,6 +9,7 @@ body {
 	background-position: center;
 	background-size: cover;
 	width: 100%;
+	padding-left: 20px;
 }
 
 h1 {

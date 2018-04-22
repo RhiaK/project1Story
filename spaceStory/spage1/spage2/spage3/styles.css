@@ -9,6 +9,7 @@ body {
 	background-position: center;
 	background-size: cover;
 	width: 100%;
+	padding-left: 20px;
 }
 
 h1 {
@@ -105,8 +106,12 @@ footer p {
 .nopadding {
 	padding: 0;
 }
- .pic {
- 	padding: 0;
- 	margin: 0;
+
+#ice {
+ 	margin: auto;
+ 	display: grid;
  	object-fit: contain;
+ 	width: 100%;
+ 	position: absolute;
+	box-sizing: border-box;
  }
